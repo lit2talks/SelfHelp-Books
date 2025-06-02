@@ -9,6 +9,6 @@ Each entry includes the book name and direct links to **read online for free** o
 
 | 📖 Book Name                                   | 🔗 Read on Lit2Talks |
 |-----------------------------------------------|-----------------------|
-| The Diary of a CEO                             | [Read Book](https://www.lit2talks.com/books/the-diary-of-a-ceo) |
-| Good Inside by Dr. Becky Kennedy              | [Read Book](https://www.lit2talks.com/books/good-inside) |
-| The Communication Book                        | [Read Book](https://www.lit2talks.com/books/the-communication-book) |
+| 100 quotes that will be changed your life    |[([https://www.lit2talks.com/books/the-diary-of-a-ceo](https://lit2talks.com/100-quotes-that-will-be-changed-your-life-140)) ](https://lit2talks.com/100-quotes-that-will-be-changed-your-life-140)|
+| Good Inside by Dr. Becky Kennedy              |(https://www.lit2talks.com/books/good-inside) |
+| The Communication Book                        | https://www.lit2talks.com/books/the-communication-book) |
